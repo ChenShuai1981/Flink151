@@ -9,6 +9,7 @@ import org.apache.flink.table.api.types.TypeInfoWrappedDataType;
 import org.apache.flink.types.Row;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 import static org.apache.flink.api.common.typeinfo.BasicArrayTypeInfo.STRING_ARRAY_TYPE_INFO;
 import static org.apache.flink.api.common.typeinfo.PrimitiveArrayTypeInfo.*;
@@ -49,7 +50,7 @@ public class ParseStringUdtf extends TableFunction<Row> {
         try {
             Class<? extends IStringParser> parserClass = Class.forName(parserClassName).asSubclass(IStringParser.class);
             parser = parserClass.newInstance();
-            columnTypes = Collections.unmodifiableList(parser.getColumnTypes());
+            columnTypes = Collections.unmodifiableList(parser.getColumnObjects().stream().map(ColumnObject::getColumnType).collect(Collectors.toList()));
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         } catch (IllegalAccessException e) {

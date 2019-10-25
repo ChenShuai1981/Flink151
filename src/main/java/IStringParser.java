@@ -2,6 +2,6 @@ import java.io.Serializable;
 import java.util.List;
 
 public interface IStringParser extends Serializable {
-    List<ColumnType> getColumnTypes();
+    List<ColumnObject> getColumnObjects();
     List<TableObject> parse(byte[] bytes);
 }
