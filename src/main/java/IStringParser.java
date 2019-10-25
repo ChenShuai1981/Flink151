@@ -1,7 +1,8 @@
 import java.io.Serializable;
+import java.util.LinkedHashMap;
 import java.util.List;
 
 public interface IStringParser extends Serializable {
-    List<ColumnObject> getColumnObjects();
-    List<TableObject> parse(byte[] bytes);
+    LinkedHashMap<String, ColumnType> getColumnTypesMap();
+    List<LinkedHashMap<String, Object>> parse(byte[] bytes);
 }

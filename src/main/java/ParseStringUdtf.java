@@ -50,7 +50,7 @@ public class ParseStringUdtf extends TableFunction<Row> {
         try {
             Class<? extends IStringParser> parserClass = Class.forName(parserClassName).asSubclass(IStringParser.class);
             parser = parserClass.newInstance();
-            columnTypes = Collections.unmodifiableList(parser.getColumnObjects().stream().map(ColumnObject::getColumnType).collect(Collectors.toList()));
+            columnTypes = Collections.unmodifiableList(parser.getColumnTypesMap().entrySet().stream().map(Map.Entry::getValue).collect(Collectors.toList()));
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         } catch (IllegalAccessException e) {
@@ -66,21 +66,21 @@ public class ParseStringUdtf extends TableFunction<Row> {
     }
 
     public void eval(byte[] message) {
-        Collection<TableObject> objects = parser.parse(message);
-        Collection<Row> rows = convertToRows(objects);
+        List<LinkedHashMap<String, Object>> objects = parser.parse(message);
+        List<Row> rows = convertToRows(objects);
         for (Row row : rows) {
             collect(row);
         }
     }
 
-    private Collection<Row> convertToRows(Collection<TableObject> objects) {
+    private List<Row> convertToRows(List<LinkedHashMap<String, Object>> objects) {
         List<Row> rows = new ArrayList<>();
-        for (TableObject object : objects) {
-            List<ColumnObject> columns = object.getColumns();
-            Row row = new Row(columns.size());
-            for (int i = 0; i < columns.size(); i++) {
-                ColumnObject column = columns.get(i);
-                row.setField(i, column.getValue());
+        for (LinkedHashMap<String, Object> object : objects) {
+            Row row = new Row(columnTypes.size());
+            Collection<Object> values = object.values();
+            int i = 0;
+            for (Object value : values) {
+                row.setField(i++, value);
             }
             rows.add(row);
         }
