@@ -1,7 +1,7 @@
 import java.io.Serializable;
-import java.util.Collection;
+import java.util.List;
 
-public interface IStringParser<T> extends Serializable {
-    Class<T> getToClass();
-    Collection<T> parse(byte[] bytes);
+public interface IStringParser extends Serializable {
+    List<ColumnType> getColumnTypes();
+    List<TableObject> parse(byte[] bytes);
 }

@@ -4,6 +4,7 @@ import lombok.Data;
 public class Person {
     private String name;
     private int age;
-    private String grade;
+    private boolean adult;
     private int[] scores;
+    private String[] colors;
 }
