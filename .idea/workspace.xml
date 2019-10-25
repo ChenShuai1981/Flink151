@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d256f77-a469-487a-9e90-b73fa95cd6df" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myActivateViewOnRun" value="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="ParseStringUdtf.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ParseStringUdtf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PersonParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IStringParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/IStringParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Address.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Address.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pojo</find>
+      <find>stream</find>
+      <find>toClass</find>
+      <find>parser</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../akka-spring-boot-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../demo-akka-spring/demo-java-akka-spring-web" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../drools-poker" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../flink-cep" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../flink-cep-demos/order-timeout" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../flink-cep-demos/user-login-attack" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../flink-prometheus-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kafka" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kafka-streams" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kafka-streams-in-action" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../robot-control-system" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sample-spring-kafka-producer-consumer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-boot-practice/contents/20150903-join-manytomany6" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../stream-reactor" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../stream-reactor/kafka-connect-redis" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ticker" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../tomcat-redis-session-manager" value="PREVIEW" />
+        <entry key="$USER_HOME$/gitrepo/kafka" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/KafkaAvroExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StdParseUdtf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MyParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ClassUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ParseStringUdtfTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PersonParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IStringParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/KafkaUDTF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/KafkaUDTFTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ParseStringUdtf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Address.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaCoverageOptionsProvider">
+    <option name="myIgnoreEmptyPrivateConstructors" value="false" />
+    <option name="myIgnoreImplicitConstructors" value="false" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Flink151" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Flink151" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flink151" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Flink151" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flink151" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Flink151" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Flink151" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Flink151" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ParseStringUdtfTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="KafkaUDTF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KafkaUDTF" />
+      <module name="Flink151" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="KafkaUDTFTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KafkaUDTFTest" />
+      <module name="Flink151" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ParseStringUdtfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParseStringUdtfTest" />
+      <module name="Flink151" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.KafkaUDTFTest" />
+      <item itemvalue="Application.KafkaUDTF" />
+      <item itemvalue="Application.ParseStringUdtfTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ParseStringUdtfTest" />
+        <item itemvalue="Application.KafkaUDTFTest" />
+        <item itemvalue="Application.KafkaUDTF" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/akka-quickstart-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Advanced-Machine-Learning-with-Spark-2.x-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../KafkaAvro" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Learning-Scala-Web-Development" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Real Time Streaming using Apache Spark Streaming _Code" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Scala-High-Performance-Programming" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../adnxg" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../adnxg/adnxg-dsp-agent" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../adnxg/adnxg-dsp-core" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-cluster-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-http-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-http-routing-primer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-http-swagger" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-in-action" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-in-action/chapter-cluster" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-in-action/chapter-futures" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-pubsub-cluster-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-samples/akka-sample-camel-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-spring-boot" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-streams-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-streams-in-practice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akkahttp-quickstart" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akkahttp_redis" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../confluent-spark-avro" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dsp-agent-frequency-cap" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dsp-core-frequency-cap" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../essential-slick" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../essential-slick-code/chapter-01" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../essential-slick-code/chapter-02" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../essential-slick-code/chapter-03" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../essential-slick-code/chapter-04" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../essential-slick-code/chapter-05" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../example-akka-http" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../flink-examples" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hello" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kafka-stream-sample" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pack-big-data-spark-streaming" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../reactive-kafka-scala-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rediscala-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../slick-codegen-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spark-redis-0.3.2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ssp-edge" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../swagger-akka-http-sample" value="PREVIEW" />
+        <entry key="$USER_HOME$/gitrepo/adm" value="PREVIEW" />
+        <entry key="$USER_HOME$/gitrepo/dsp" value="PREVIEW" />
+        <entry key="$USER_HOME$/gitrepo/newproject/adx" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d256f77-a469-487a-9e90-b73fa95cd6df" name="Default" comment="" />
+      <created>1571909491788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571909491788</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Tool Output" order="15" />
+      <window_info anchor="right" id="RestServices" order="9" />
+      <window_info anchor="bottom" id="DB Execution Console" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="14" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.54018444" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info id="DB Browser" order="3" />
+      <window_info anchor="bottom" id="SBT Console" order="10" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.32806325" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.32806325" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25234318" />
+      <window_info anchor="bottom" id="Problems" order="0" />
+      <window_info anchor="right" id="BPMNPalette" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="DB Execution Console" order="9" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="SBT Console" order="10" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.32806325" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="DB Browser" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Tool Output" order="15" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25234318" />
+      <window_info anchor="right" id="BPMNPalette" order="5" />
+      <window_info anchor="bottom" id="Problems" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.32806325" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="RestServices" order="9" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="14" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.54018444" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/KafkaUDTF.java</url>
+          <line>37</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ParseStringUdtf.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="clazzes" language="JAVA" />
+        <watch expression="toClass.getDeclaredFields()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>toClass.getDeclaredFields()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>clazzes</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1769">
+          <caret line="61" column="45" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ParseStringUdtf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/blink/flink-table_2.11/1.5.1/flink-table_2.11-1.5.1.jar!/org/apache/flink/table/api/functions/TableFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/blink/flink-table_2.11/1.5.1/flink-table_2.11-1.5.1.jar!/org/apache/flink/table/api/functions/CustomTypeDefinedFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/blink/flink-table_2.11/1.5.1/flink-table_2.11-1.5.1.jar!/org/apache/flink/table/api/functions/UserDefinedFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/KafkaAvroExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1126#1149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/KafkaAvroExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1126#1149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/blink/flink-table_2.11/1.5.1/flink-table_2.11-1.5.1.jar!/org/apache/flink/table/api/types/DataTypes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="103" column="55" selection-start-line="103" selection-start-column="44" selection-end-line="103" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/blink/flink-streaming-java_2.11/1.5.1/flink-streaming-java_2.11-1.5.1-sources.jar!/org/apache/flink/streaming/api/environment/StreamExecutionEnvironment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="1487" column="36" selection-start-line="1487" selection-start-column="36" selection-end-line="1487" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/blink/flink-table_2.11/1.5.1/flink-table_2.11-1.5.1.jar!/org/apache/flink/table/api/java/StreamTableEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="73" column="35" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClassUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ParseStringUdtfTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/blink/flink-table_2.11/1.5.1/flink-table_2.11-1.5.1.jar!/org/apache/flink/table/api/functions/UserDefinedFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/blink/flink-table_2.11/1.5.1/flink-table_2.11-1.5.1.jar!/org/apache/flink/table/api/functions/CustomTypeDefinedFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/blink/flink-table_2.11/1.5.1/flink-table_2.11-1.5.1.jar!/org/apache/flink/table/api/functions/TableFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/KafkaUDTF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="35" column="68" lean-forward="true" selection-start-column="2" selection-end-line="56" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/KafkaUDTFTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="22" column="70" lean-forward="true" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PersonParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ParseStringUdtf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IStringParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

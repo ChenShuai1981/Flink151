@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/FinCloud.xml" />
+        <option name="selectedJavaProfile" value="FinCloud" />
+      </ProjectSpecificProfile>
+    </option>
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1540181017298" />
+        <option name="name" value="Default (Template) Project" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/FinCloud.xml" />
+        <option name="selectedJavaProfile" value="FinCloud" />
+      </Settings>
+    </option>
+  </component>
+</project>
